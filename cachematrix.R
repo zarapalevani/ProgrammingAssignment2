@@ -1,6 +1,6 @@
 > ## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
 > ## make matrix assign to variable x, and initialize m to NULL
-> 
+> ## for the coursera R Assignment 2
 > makeCacheMatrix <- function(x = matrix()) {
 +     m <- NULL
 +     set <- function(y) {            ## if user want to reset matrix 
